@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f0e01c-dc25-4f8b-a690-ab878797984e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nextjs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nextjs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/public/env-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/public/env-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/components/Base/datatable/DataTable.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/components/Base/datatable/DataTable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/constants/message.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/constants/message.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/helpers/DateTimeUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/_core/helpers/DateTimeUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/pages/OnlineAnalytic/Relearning/RelearningConfig.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/pages/OnlineAnalytic/Relearning/RelearningConfig.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/store/Auth/AuthStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/store/Auth/AuthStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/store/Home/ProjectManagementStore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/src/store/Home/ProjectManagementStore.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HaMUSreohkNSi1avoWzdpJEm6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/MyProject/nextjs/services",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "D:\\VMO\\C12\\YOK4(new)\\analytic-management-ui\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates",
+    "ts.external.directory.path": "D:\\MyProject\\nextjs\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProject\nextjs\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProject\nextjs\pages\login" />
+      <recent name="D:\MyProject\nextjs\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f0e01c-dc25-4f8b-a690-ab878797984e" name="Changes" comment="" />
+      <created>1668518759714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668518759714</updated>
+      <workItem from="1668518763207" duration="8417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

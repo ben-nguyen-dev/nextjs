@@ -1,0 +1,3 @@
+export const APP_STORAGE = {
+    ACCESS_TOKEN: 'MLS_ACCESS_TOKEN',
+};

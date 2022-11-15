@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/.idea/analytic-management-ui.iml" filepath="$PROJECT_DIR$/../../VMO/C12/YOK4(new)/analytic-management-ui/.idea/analytic-management-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nestjs/.idea/nestjs.iml" filepath="$PROJECT_DIR$/../nestjs/.idea/nestjs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/nextjs.iml" filepath="$PROJECT_DIR$/.idea/nextjs.iml" />
     </modules>
   </component>
